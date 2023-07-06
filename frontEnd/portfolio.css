@@ -1,0 +1,87 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://wallpaperaccess.com/full/5651981.jpg");
+    background-size: cover;
+    
+  }
+  
+  /* Navigation Bar */
+  nav {
+    padding: 10px;
+  }
+  img {
+    border-radius: 50%;
+    width: 200px;
+    box-shadow: 0 2px 500px rgba(0, 0, 0, 100);
+  }
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Section Styles */
+  section {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    padding: 50px;
+    background-color: #f9f9f9;
+  border: 2px solid #333;
+  border-radius: 10px;
+  
+  }
+  
+  /* Add more styles for each section as needed */
+  
+  /* Social Media Links */
+  .social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  /* Add more styles for social media links as needed */
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-links img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  /* Add more styles for social media links as needed */
+  
+  
